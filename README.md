@@ -1,4 +1,2 @@
-# ocilical.github.io/website
+# ocilical.github.io
 cool webpage thingy
-
-it's not on the root page because uhhhh... reasons don't worry about it
