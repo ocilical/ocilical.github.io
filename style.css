@@ -4,22 +4,9 @@
     justify-content: left;
     flex-wrap: wrap;
     white-space: pre-wrap;
+    margin: 0px;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
-}
-
-h2 {
-    font-size: 50px;
-    margin: 0px;
-}
-
-h3 {
-    font-size: 25px;
-    margin: 0px;
-}
-
-p {
-    margin: 0px;
 }
